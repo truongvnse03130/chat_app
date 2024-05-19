@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "561179257680",
+    "firebase_url": "https://flutter-prep-3b57d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-prep-3b57d",
+    "storage_bucket": "flutter-prep-3b57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561179257680:android:aa533aacdc4d660f6e5a55",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA30tKUzwm0QY3dFUQduGjWiYrlLmpJ64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
